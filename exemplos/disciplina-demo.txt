@@ -1,0 +1,7 @@
+MATERIAL DIDÁTICO FICTÍCIO — BANCO DE DADOS
+A normalização organiza tabelas para reduzir redundância e anomalias de atualização.
+Na primeira forma normal, os atributos devem ter valores atômicos no contexto do domínio.
+Na segunda forma normal, a tabela está na primeira forma normal e cada atributo não primo depende funcionalmente da chave candidata inteira.
+Na terceira forma normal, para cada dependência funcional não trivial X → A, X é uma superchave ou A é atributo primo.
+RAG combina recuperação de informação e geração. A busca fornece trechos relevantes ao modelo de linguagem.
+ChromaDB é uma base vetorial que armazena embeddings, documentos e metadados para consultas por similaridade.
